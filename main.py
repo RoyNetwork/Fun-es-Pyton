@@ -10,6 +10,7 @@ soma(3,5)
 #impressão da váriavel local do programa principal
 print("Total principal = ",total)
 
+#-----------------------------------------------------------#
 
 import Funções
 s = Funções.soma3(3,5)
